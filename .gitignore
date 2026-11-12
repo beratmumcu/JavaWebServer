@@ -1,0 +1,17 @@
+# Derlenmiş Java Bytecode dosyaları (Git'e atılmaz)
+*.class
+
+# Paket dosyaları
+*.jar
+*.war
+
+# İşletim sistemi ve IDE yapılandırmaları
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Log dosyaları
+*.log
+
